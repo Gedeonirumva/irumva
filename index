@@ -1,0 +1,96 @@
+
+<html>
+<head>
+  <title>HELLO WORLD </title> <br>this is my first line come all see </br>
+  <link rel="stylesheet" type="text/css" href="css/style2.css">
+  <link rel="stylesheet" type="text/css" href="css/font-awesome/css/font-awesome.min.css">
+</head>
+<body>
+  <!-- The top navigation bar -->
+  <div class="nav">
+    <ul>
+      <span class="name"> <span class="circle"></span>HELLO WORLD</span>
+      <div class="pulse">
+        
+      </div>
+        <form>
+            <table width="60%">
+          <tr>
+              <td><a href="#ABOUT US"> ABOUT US</a></td>
+        <td><a href="#RESOURCES"> <li> <span class="list">RESOURSES </span> </li></a></td>
+        <td> <a href="#HABITATIO"> <li> <span class="list"> HABITATION </span> </li></a></td>
+        <td> <a href=" #CONTACT US"></a> </td>
+    </tr></table></form>
+  </div>
+<!-- The homepage Contents -->
+  <div class="container">
+        <div class="img_container">
+          <!-- <img src="img/use.png" height="400" width="600"> -->
+           </img>
+           <div>
+             <button class="btn cv-btn"> <span> Download My CV </span></button>
+           </div>
+        </div>
+
+         <div>
+         <i class="fa fa-angle-double-right fa-2x  terminal_arrow"></i> 
+
+        </div>
+        <div class="prompt">
+           <div class="control red"></div>
+           <div class="control yellow"></div>
+           <div class="control green"></div>
+           <div class="top_panel">
+           </div>
+           <div class="editor">
+              <span id="txt"></span>
+           </div>
+        </div>
+  </div>
+
+<!-- The second page of  -->
+  <div class="container" id="who">
+        <div class="social about">
+          <div class="social_box">
+            <i class="fa fa-user fa-3x"></i><br>
+           <hr>
+           <div class="about-text">
+               
+           </div>
+                        <button class="btn github-btn"> <i class="fa fa-github fa-2x"> CHECHGithub Profile </i></button>
+          </div>
+        </div>
+        
+  
+  <div class="container" id="where">
+        <div class="social">
+          <div class="social_box">
+            <i class="fa fa-github fa-3x"></i><br>
+            Find Some Of Repositories On github
+          </div>
+        </div>
+        <div class="social">
+           <i class="fa fa-twitter fa-3x "></i><br>
+            Find Me On Twitter
+            <hr>
+        </div>
+        <div>
+
+        </div>
+        <div class="social">
+          <i class="fa fa-instagram fa-3x"></i>
+          <br>
+            Find Me on Instagram
+        </div>
+        <div class="social">
+           <i class="fa fa-google fa-3x "></i>
+           <br>
+            Wanna get in touch email me on gmail
+        </div>
+
+  </div>
+
+
+<script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
